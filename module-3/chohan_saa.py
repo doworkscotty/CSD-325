@@ -1,5 +1,5 @@
 """Cho-Han, by Al Sweigart al@inventwithpython.com
-Modified by Scott Anderson for Module 3 assignment
+Modified by Scott Anderson for Module 3 assignment 06/13/2025
 """
 
 import random, sys
